@@ -1,2 +1,3 @@
 # dacon_titanic
-titanic csv for ML
+Machine Learning with titanic csv
+dacon.io
